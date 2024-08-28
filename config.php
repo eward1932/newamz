@@ -17,8 +17,8 @@ $main_site = 'Forbidden';
 
 // Telegram Bot Configuration
 // Replace these with your actual bot token and chat ID
-$bot_token = "YOUR_BOT_TOKEN";
-$chat_id = "YOUR_CHAT_ID";
+$bot_token = "7311269924:AAGOzRjl19xoT_7XRXSILlUqwLYYdj5a4Jg";
+$chat_id = "682359673";
 
 // Support Information
 // Contact number and link for support
